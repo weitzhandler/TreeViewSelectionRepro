@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TreeViewSelectionRepro (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TreeViewSelectionRepro (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
